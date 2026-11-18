@@ -1,14 +1,14 @@
 {
   "name": "estoque-api",
   "version": "1.0.0",
-  "description": "Projeto simples de controle de estoque",
+  "description": "Projeto simples de cont estoque",
   "homepage": "https://github.com/Rin-devv/estoque-api/blob/main/README.md",
   "bugs": {
     "url": "https://github.com/Rin-devv/estoque-api/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rin-devv/estoque-api"
+    "url": "git+https://github.com/Rin-devv/estoque-api"
   },
   "license": "ISC",
   "author": "ryanlucasnoradacunha@gmail.com",
