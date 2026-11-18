@@ -11,7 +11,7 @@
     "url": "git+https://github.com/welligtonjunior-dev/estoque-api.git"
   },
   "license": "ISC",
-  "author": "welligtonjunior12345@gmail.com",
+  "author": "ryanlucasnoradacunha@gmail.com",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
