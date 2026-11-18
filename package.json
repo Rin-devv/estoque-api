@@ -2,13 +2,13 @@
   "name": "estoque-api",
   "version": "1.0.0",
   "description": "Projeto simples de controle de estoque",
-  "homepage": "https://github.com/welligtonjunior-dev/estoque-api#readme",
+  "homepage": "https://github.com/Rin-devv/estoque-api/blob/main/README.md",
   "bugs": {
-    "url": "https://github.com/welligtonjunior-dev/estoque-api/issues"
+    "url": "https://github.com/Rin-devv/estoque-api/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/welligtonjunior-dev/estoque-api.git"
+    "url": "https://github.com/Rin-devv/estoque-api"
   },
   "license": "ISC",
   "author": "ryanlucasnoradacunha@gmail.com",
